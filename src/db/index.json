@@ -1,0 +1,46 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    }
+  ],
+  "books": [
+    {
+      "id": 101,
+      "title": "The Book of Life",
+      "published": "2020-01-01",
+      "authorId": 1
+    },
+    {
+      "id": 103,
+      "title": "The Book of Dreams",
+      "published": "2021-03-15",
+      "authorId": 2
+    },
+    {
+      "id": 104,
+      "title": "The Book of Nightmares",
+      "published": "2022-02-14",
+      "authorId": 2
+    },
+    {
+      "atrID": 1,
+      "title": "fasdfsd",
+      "published": "fsadfasd",
+      "id": 105
+    },
+    {
+      "title": "test",
+      "published": "test",
+      "authorId": 1,
+      "id": 106
+    }
+  ]
+}
